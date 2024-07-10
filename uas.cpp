@@ -14,7 +14,7 @@ int main() {
     kartu1.nama = "Obelisk the tormentor";
     kartu1.deskripsi = "naga";
     kartu1.attack = 4000;
-    kartu1.defend = 2500;
+    kartu1.defend = 2000;
 
     cout << "Nama: " << kartu1.nama << endl;
     cout << "Deskripsi: " << kartu1.deskripsi << endl;
